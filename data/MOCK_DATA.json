@@ -1,0 +1,17 @@
+[
+    { "id": 1, "title": "Puppet Master: Axis of Evil (Puppet Master 10)", "genre": "Horror", "year": 81, "rating": 76, "poster": "https://robohash.org/aliquamipsumautem.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 2, "title": "Wendigo", "genre": "Drama|Horror", "year": 3, "rating": 14, "poster": "https://robohash.org/dictanisireprehenderit.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 3, "title": "Walking Tall Part II", "genre": "Action|Adventure|Crime|Drama", "year": 34, "rating": 44, "poster": "https://robohash.org/utarchitectonecessitatibus.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 4, "title": "Where the Truth Lies", "genre": "Drama|Thriller", "year": 24, "rating": 19, "poster": "https://robohash.org/quiaexercitationemaut.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 5, "title": "Chump at Oxford, A", "genre": "Comedy", "year": 28, "rating": 85, "poster": "https://robohash.org/addoloremquo.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 6, "title": "Man on Wire", "genre": "Documentary", "year": 13, "rating": 21, "poster": "https://robohash.org/sedveroaut.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 7, "title": "Still of the Night", "genre": "Mystery|Thriller", "year": 5, "rating": 64, "poster": "https://robohash.org/praesentiumnonvitae.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 8, "title": "Chaos Theory", "genre": "Comedy|Drama|Romance", "year": 92, "rating": 97, "poster": "https://robohash.org/repellataspernaturmaiores.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 9, "title": "There Goes My Heart", "genre": "Comedy|Romance", "year": 53, "rating": 1, "poster": "https://robohash.org/consequaturrepellendusodit.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 10, "title": "Jesse Stone: Stone Cold", "genre": "Crime|Drama|Mystery", "year": 88, "rating": 21, "poster": "https://robohash.org/dolorereprehenderitlaboriosam.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 11, "title": "Overcoat, The (Il cappotto)", "genre": "Comedy|Drama|Fantasy", "year": 50, "rating": 5, "poster": "https://robohash.org/reprehenderiteveniettemporibus.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 12, "title": "Sun Alley (Sonnenallee)", "genre": "Comedy|Romance", "year": 8, "rating": 5, "poster": "https://robohash.org/voluptatibusinciduntdolor.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 13, "title": "Khodorkovsky", "genre": "Documentary|Drama", "year": 31, "rating": 39, "poster": "https://robohash.org/debitisetsint.png?size=200x300&set=set1", "isShowing": false },
+    { "id": 14, "title": "40 Pounds of Trouble", "genre": "Comedy", "year": 90, "rating": 23, "poster": "https://robohash.org/utcorporisdistinctio.png?size=200x300&set=set1", "isShowing": true },
+    { "id": 15, "title": "Henry & June", "genre": "Drama", "year": 5, "rating": 49, "poster": "https://robohash.org/magnamestconsequatur.png?size=200x300&set=set1", "isShowing": false }
+]
